@@ -1,6 +1,5 @@
 # About Me
 
-## About me
 
 Hello,
 
