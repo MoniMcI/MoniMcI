@@ -36,6 +36,10 @@ Javascript - HTML5 - CSS3 - Node Js - React - Redux - PostgresSQL - Sequelize - 
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="3%"/> </a>
 </p>
 
+## Contact me
+email: mbguantay@gmail.com
+linkedin: https://www.linkedin.com/in/monica-guantay/
+
 ---
 
 # Acerca de mí
@@ -74,3 +78,7 @@ Javascript - HTML5 - CSS3 - Node Js - React - Redux - PostgresSQL - Sequelize - 
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="12%"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="3%"/> </a>
 </p>
+
+## Contactame
+email: mbguantay@gmail.com
+linkedin: https://www.linkedin.com/in/monica-guantay/
